@@ -85,7 +85,7 @@ span{
 }
 
 .recipie-title{
-    margin-bottom: 80px;
+    margin-bottom: 110px;
 }
 .recipie-title h2{
     font-size: 35px;
@@ -139,9 +139,8 @@ span{
     box-shadow: 5px 5px 15px gray;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
     border-radius: 50px;
-    m
    
 }
 .summary .container{
