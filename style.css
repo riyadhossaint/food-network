@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+h1{
+    font-size: 45px;
+    margin: 16px 0;
+    
+}
+
+.partial-color{
+    color: gold;
+}
+
+span{
+    color: gray;
+}
+
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(orange, yellow);
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+
+.half-width p{
+    margin-bottom: 60px;
+    color: gray;
+}
+
+section{
+    display: flex;
+}
+
+.top-banner{
+    margin-bottom: 40px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+}
+.img-width{
+    width: 80%;
+}
+
+.about-me{
+    background-image: url(image/frame.png);
+    width: 100%;
+}
+.about-me h1{
+    margin-top: 100px;
+}
+
+.about-me .half-width h1{
+    color: gray;
+}
+
+.about-me .half-width p{
+    color: black;
+    margin-bottom: 80px;
+}
+
