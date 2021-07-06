@@ -1,7 +1,30 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
     
 }
+
+.welcome img{
+      height: 400px;
+      width: 100%;
+      
+}
+.welcome{
+    position: relative;
+    margin-bottom: 80px;
+}
+
+.welcome h1{
+    color: cyan;
+    position: absolute;
+    bottom: 200px;
+    right: 300px;
+    text-align: center;
+    
+    
+}
+
+
 h1{
     font-size: 60px;
     margin: 16px 0;
@@ -62,7 +85,7 @@ span{
 }
 
 .recipie-title{
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 .recipie-title h2{
     font-size: 35px;
@@ -109,5 +132,20 @@ span{
 
 #alignment{
     margin-right: 5%;
+}
+.summary{
+    display: flex;
+    background-color: white;
+    box-shadow: 5px 5px 15px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border-radius: 50px;
+    m
+   
+}
+.summary .container{
+    margin: 5%;
+    padding-left: 10%;
 }
 
