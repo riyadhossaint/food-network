@@ -45,6 +45,7 @@ span{
 
 .about-me{
     background-image: url(image/frame.png);
+    margin-top: 80px;
 }
 
 .about-me h1{
@@ -60,14 +61,25 @@ span{
     margin-bottom: 80px;
 }
 
-.my-recipy{
+.recipie-title{
+    margin-bottom: 50px;
+}
+.recipie-title h2{
+    font-size: 35px;
+}
+.my-recipie{
     text-align: center;
+    margin-top: 80px;
+    margin-left: 60px;
 }
 
-.my-recipy h1{
+.my-recipie h1{
     color: gray;
 }
 
+.my-recipie p{
+    margin-bottom: 35px;
+}
 .shadow{
     width: 33.33%;
     margin-left: 5%;
@@ -87,11 +99,14 @@ span{
     height: 200px;
     width: 100%;
     text-align: center;
+    padding-top: 40px;
+    
 }
 
 .footer p{
     color: white;
 }
+
 #alignment{
     margin-right: 5%;
 }
